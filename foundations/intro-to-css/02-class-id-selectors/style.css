@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.rojo {
+    background-color: rgb(255, 105, 97);
+}
+#numberOne#NumberFive {
+    font-size: 20px;
+}
+#numberThree {
+    font-size: 30px;
+}
+#numberTwo {
+    color: blue;
+    font-size: 35px;
+}
+#numberFour {
+    background-color: hsl(118, 100%, 69%);
+    font-weight: bold;
+    font-size: 30px;
+}

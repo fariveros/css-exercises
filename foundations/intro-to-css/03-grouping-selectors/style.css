@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+button {
+    font-family: 'Times New Roman', Times, serif, Helvetica;
+    font-size: 28px;
+}
+.click {
+    background-color: black;
+    color: white;
+    border-color: gray;
+    font-weight: bold;
+}
+.noClick {
+    background-color: yellow;
+    border-color: gray;
+}
